@@ -9,3 +9,5 @@
 1. Run server.
 
 The front-end application is in my `LandMonkClient` repository.
+
+**STUDENTS:** Remove the Html-files folder from the root directory.
