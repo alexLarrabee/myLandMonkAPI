@@ -1,6 +1,6 @@
 # LandMonkAPI
 
-## Instructions
+## Installation
 
 1. Use `landmonkdb.sql` to create MySQL database.
 1. Use `initializedb/initializeLandMonk.sql` to populate database.
